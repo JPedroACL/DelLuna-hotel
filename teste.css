@@ -1,0 +1,30 @@
+body{
+  background-color: #c41d5de8; background: linear-gradient(#e66465, #3f4cda);
+}
+.container{
+ 
+  padding: auto;
+  width: 1400px;;
+  height: 800px;
+  
+}
+
+.btn{
+  background-color: rgb(247, 238, 238);
+ right: 90px;
+ 
+}
+img{
+filter: brightness(100);
+}
+.flex-parent {
+  display: flex;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+
+
+
