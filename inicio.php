@@ -16,22 +16,15 @@
     
      <center> 
     <div class="container"> 
-
-
-    <img src="/Del_luna.png">
+    <img src="../Del_luna.png">
     <a href="cadastro.php">
     <div class="flex-parent jc-center"></div>
 <button type="submit"class="btn btn-secondary btn-sm"  >CADASTRAR</button></a>
 <a href="entrar.php">
  <button type="submit"class="btn btn-secondary btn-sm" >ENTRAR</button> </a>     
 </div>
-
-
-
-
     </div>
     </center>
-
        
     
  

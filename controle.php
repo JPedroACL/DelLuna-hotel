@@ -80,11 +80,11 @@ $resultado_usuario = mysqli_query($mysqli,$listarDados);
       <td><?php  echo $row_usuario['nome']?></td>
       <td><?php  echo $row_usuario['email']?></td>
       <td><?php  echo $row_usuario['telefone']?></td>
-      <td><?php  echo $row_usuario['quant.criancas']?></td>
-      <td><?php  echo $row_usuario['quant.quartos']?></td>
+      <td><?php  echo $row_usuario['quant_criancas']?></td>
+      <td><?php  echo $row_usuario['quant_quartos']?></td>
       <td><?php  echo $row_usuario['check_in']?></td>
       <td><?php  echo $row_usuario['funcionario']?></td>
-      <td><?php  echo $row_usuario['preferencias']?></td>
+      <td><?php  echo $row_usuario['preferencia']?></td>
     </tr>
     <?php
        ;
