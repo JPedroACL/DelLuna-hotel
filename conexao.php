@@ -12,3 +12,5 @@ if(!$mysqli){
 else{
     echo "Conectado";
 }
+
+?>
