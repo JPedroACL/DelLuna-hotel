@@ -54,7 +54,7 @@
           Funcionario: <input type="text" class="form-control" placeholder="Nome do funcionário" name="func"><br>
 
           preferências :<input type="text" class="form-control" placeholder="Digite as preferências" name="pref"><br>
-          <a href="menu.php"><button class="btn btn-success" onclick="validar()" name="submit">Cadastrar-se</button>
+          <a href="menu.php"><button class="btn btn-outline-success" onclick="validar()" name="submit">Cadastrar-se</button>
           </a>
     
       

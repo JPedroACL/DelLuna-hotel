@@ -21,7 +21,7 @@
     <br>
     <br>
 <a href="inicio.php">
-    <button class="btn btn-success">voltar ao menu</button>
+    <button class="btn btn-outline-success">voltar ao menu</button>
 </a>
     </div>
 </center>
